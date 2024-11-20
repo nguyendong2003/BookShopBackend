@@ -6,7 +6,6 @@ services:
     buildCommand: "npm install"
     startCommand: "npm start"
     envVars:
-      PORT: "8080"
       NODE_ENV: "production"
       MONGO_DB_URL: "mongodb+srv://nguyendong:OxXFpBJy0uPTZoRN@cluster0.9beth.mongodb.net/reacttestfresher"
       MIGRATION_USER_PASSWORD: "123456"
