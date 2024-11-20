@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: your-app-name
+    name: BookShop
     env: node
     plan: free
     buildCommand: "npm install"
